@@ -1,0 +1,14 @@
+{
+  "name": "dump_beta",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "bot.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.mjs"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "moment-timezone": "^0.5.45"
+  }
+}
